@@ -21,20 +21,15 @@
 </div>
 
 
-<div style="display:flex; justify-content:center" align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalombaKevin&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalombaKevin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalombaKevin&show_icons=true&theme=radical" width="50%" />
-
-
+</a>
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalombaKevin&layout=compact&theme=vision-friendly-dark" />
-
+</a>
 
 
 
