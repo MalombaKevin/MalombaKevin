@@ -11,9 +11,9 @@ ____
 <img src="https://komarev.com/ghpvc/?username=MalombaKevin&style=flat-square&color=blue" alt=""/>
 </div>
 
-
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MalombaKevin&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
+</div>
 
 <a href="https://github.com/MalombaKevin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalombaKevin&show_icons=true&theme=radical" width="50%" />
