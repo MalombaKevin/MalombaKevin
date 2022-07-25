@@ -25,10 +25,10 @@
 
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalombaKevin&show_icons=true&theme=radical" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalombaKevin&show_icons=true&theme=radical" width="60%" />
 </a> &nbsp: &nbsp:
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalombaKevin&layout=compact&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalombaKevin&layout=compact&theme=vision-friendly-dark"/>
 </a>
 
 
