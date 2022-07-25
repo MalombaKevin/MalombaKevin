@@ -12,7 +12,7 @@ ____
 </div>
 
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MalombaKevin&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 
 <a href="https://github.com/MalombaKevin">
