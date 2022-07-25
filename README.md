@@ -15,10 +15,10 @@ ____
 
 
 
-<a href="">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalombaKevin&show_icons=true&theme=radical" width="50%" />
 </a> &nbsp: &nbsp:
-<a href="">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalombaKevin&layout=compact&theme=vision-friendly-dark"/>
 </a>
 
