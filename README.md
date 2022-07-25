@@ -15,14 +15,14 @@ ____
 
 
 
-<a>
+<a href="https://github.com/MalombaKevin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalombaKevin&show_icons=true&theme=radical" width="50%" />
 </a> &nbsp: &nbsp:
-<a>
+<a href="https://github.com/MalombaKevin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalombaKevin&layout=compact&theme=vision-friendly-dark"/>
 </a>
 
-____
+__
 <div id="badges"align="center">
   <a href="https://www.linkedin.com/in/kevin-malomba/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
