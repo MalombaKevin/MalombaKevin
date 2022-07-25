@@ -1,6 +1,8 @@
 <div align="center">
 <h3>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
 
+____
+
 ### :man_technologist: About Me :
  I am a Full Stack Developer from Kenya.
 </div> 
