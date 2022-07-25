@@ -1,3 +1,4 @@
+<div align="center">
 <h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 ### :man_technologist: About Me :
@@ -20,11 +21,18 @@
 </div>
 
 
+<div style="display:flex; justify-content:center" align="center">
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalombaKevin&show_icons=true&theme=radical" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalombaKevin&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalombaKevin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalombaKevin&layout=compact&theme=vision-friendly-dark" />
 </a>
 
