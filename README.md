@@ -4,8 +4,11 @@
 ### :man_technologist: About Me :
 #### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 </div> 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MalombaKevin&style=flat-square&color=blue" alt=""/>
+</div>
 
-### :fire: My Stats :
+
 <div style="display:flex; justify-content:center" align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalombaKevin&show_icons=true&theme=radical)
@@ -27,9 +30,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MalombaKevin&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 
 <div align="center">
