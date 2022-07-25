@@ -7,9 +7,7 @@ ____
  I am a Full Stack Developer from Kenya.
 </div> 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MalombaKevin&style=flat-square&color=blue" alt=""/>
-</div>
+
 <div id="badges"align="center">
   <a href="https://www.linkedin.com/in/kevin-malomba/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,6 +18,9 @@ ____
   <a href="https://twitter.com/kmalomba" target="blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=MalombaKevin&style=flat-square&color=blue" alt=""/>
+</div>
 </div>
 
 <div align="center">
