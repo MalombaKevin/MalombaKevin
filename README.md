@@ -1,5 +1,11 @@
+<div align="center">
+<h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+### :man_technologist: About Me :
+#### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+</div> 
+
 ### :fire: My Stats :
-<div style="display:flex; justify-content:center">
+<div style="display:flex; justify-content:center" align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalombaKevin&show_icons=true&theme=radical)
 
@@ -23,15 +29,12 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MalombaKevin&style=flat-square&color=blue" alt=""/>
 </div>
-<div align="center">
-<h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-</div>
+
 
 <div align="center">
 
 
-### :man_technologist: About Me :
-#### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+
 
 ______
  
